@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "vector": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "pthread_alloc": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "cstddef": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
